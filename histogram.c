@@ -31,7 +31,7 @@ int main ( void )
 
 	// Processing data to compute histogram
 	//
-	int hist[10],i;    
+	int hist[10];    
 	memset(hist,0,sizeof(hist));
 	for(i=0;i<n;i++){
 		hist[list[i]]=hist[list[i]]+1;
