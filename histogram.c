@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include<string.h>
+	
 /**
  * Prints a histogram to the screen using horizontal bar chart.
  * Parameters:
